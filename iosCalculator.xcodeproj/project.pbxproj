@@ -54,14 +54,22 @@
 		DFD59A361DA2C10600CA838C /* iosCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				DFD59A371DA2C10600CA838C /* AppDelegate.swift */,
+				DFD59A491DA2C3AC00CA838C /* Supporting Files */,
 				DFD59A391DA2C10600CA838C /* ViewController.swift */,
 				DFD59A3B1DA2C10700CA838C /* Main.storyboard */,
+			);
+			path = iosCalculator;
+			sourceTree = "<group>";
+		};
+		DFD59A491DA2C3AC00CA838C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DFD59A371DA2C10600CA838C /* AppDelegate.swift */,
 				DFD59A3E1DA2C10700CA838C /* Assets.xcassets */,
 				DFD59A401DA2C10700CA838C /* LaunchScreen.storyboard */,
 				DFD59A431DA2C10700CA838C /* Info.plist */,
 			);
-			path = iosCalculator;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
